@@ -1,0 +1,8 @@
+{
+  "name": "quark",
+  "version": "0.1.0",
+  "description": "A simple C++ library.",
+  "homepage": "https://github.com/pnnh/quark",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": []
+}
